@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+test_conn.py
+test_helpers.py
+PROBLEM_STATEMENT.docx
