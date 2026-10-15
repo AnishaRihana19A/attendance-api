@@ -50,8 +50,7 @@ uvicorn app.main:app --port 8000
 
 - The four analytics endpoints and the explain endpoint are not implemented.
 - I checked the time helpers with a local script that is not in this repository.
-- (Add anything else that is unfinished or you are unsure about.)
 
 ## Notes
 
-I used an AI assistant to learn concepts and to check my work; I typed and tested the code and can explain it.
+I used an AI assistant to learn and check my work.
